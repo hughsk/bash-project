@@ -1,0 +1,23 @@
+{
+  "name": "dockercon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^7.0.0",
+    "course": "0.0.1",
+    "docker-browser-console": "^5.0.0",
+    "socket.io": "^1.2.1",
+    "term.js": "0.0.4",
+    "watchify": "^2.1.1",
+    "watchify-request": "^1.0.1",
+    "websocket-stream": "^1.1.0",
+    "ws": "^0.6.0",
+    "ws-stream": "0.0.3"
+  }
+}
